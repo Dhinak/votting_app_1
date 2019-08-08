@@ -1,1 +1,3 @@
-log
+sona voting app's php files only. android file will be updated soon.
+
+Students and admins can use their mobile no or email address to login. In college there must be a admin for every department , that admin has power of administering election process. They can reset the voting counter for candidates and reset the voting status of the student. The student enter their registered ID(roll no) and get the candidates list and send give the registered ID of candidates. The students can vote to chairman or secretary based on their batch. They can't access other dept. candidates and also admins can't access other dept. student. 
